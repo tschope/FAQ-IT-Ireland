@@ -99,12 +99,6 @@ _ReSharper*/
 *.[Rr]e[Ss]harper
 *.DotSettings.user
 
-# JustCode is a .NET coding add-in
-.JustCode
-
-# TeamCity is a build add-in
-_TeamCity*
-
 # DotCover is a Code Coverage Tool
 *.dotCover
 
@@ -116,9 +110,6 @@ nCrunchTemp_*
 # MightyMoose
 *.mm.*
 AutoTest.Net/
-
-# Web workbench (sass)
-.sass-cache/
 
 # Installshield output folder
 [Ee]xpress/
@@ -199,10 +190,6 @@ Backup*/
 UpgradeLog*.XML
 UpgradeLog*.htm
 
-# SQL Server files
-*.mdf
-*.ldf
-
 # Business Intelligence projects
 *.rdl.data
 *.bim.layout
@@ -240,11 +227,6 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
-
-# ignore Xamarin.Android Resource.Designer.cs files
-**/*.Droid/**/[Rr]esource.[Dd]esigner.cs
-**/*.Android/**/[Rr]esource.[Dd]esigner.cs
-**/Android/**/[Rr]esource.[Dd]esigner.cs
 
 # JetBrains
 .idea
