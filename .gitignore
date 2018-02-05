@@ -245,3 +245,6 @@ ModelManifest.xml
 **/*.Droid/**/[Rr]esource.[Dd]esigner.cs
 **/*.Android/**/[Rr]esource.[Dd]esigner.cs
 **/Android/**/[Rr]esource.[Dd]esigner.cs
+
+# JetBrains
+.idea

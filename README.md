@@ -1,5 +1,16 @@
 # LEIA ANTES DE PERGUNTAR: 
 
+Esse FAQ pertence aos seguintes grupos:
+
+* [WhatsApp - IT Dublin](https://chat.whatsapp.com/FZZto7hIEAy5P04SUBQG5z)
+* [WhatsApp - IT Cork/Galway](https://chat.whatsapp.com/82MZDQzZGa013y2cFWwT5i)
+* [Telegram - IT Dublin * Preferimos o Telegram](https://t.me/ITDublin)
+* [Telegram - IT Cork/Galway * Preferimos o Telegram](https://t.me/itcorkgalway)
+
+- Criador: [Rodrigo Tschope](https://www.linkedin.com/in/tschope)
+- Colaborador: [Jader Oliveira](https://www.linkedin.com/in/tschope)
+- Colaborador: [Armando Affonso](https://www.linkedin.com/in/armandoaffonso/)
+
 O grupo é focado em responder dúvidas pontuais, pontos de vista, troca de informações, vagas e dúvidas gerais. Dúvidas genéricas, segue o roteiro abaixo:
 
 * [1. Como está o mercado de X na Irlanda?](#1)
@@ -7,7 +18,9 @@ O grupo é focado em responder dúvidas pontuais, pontos de vista, troca de info
 * [3. Preciso ser formado em TI? ](#3)
 * [4. Custo de vida na Irlanda é barato?](#4)
 * [5. Quero ir para trabalhar, como faço? Precisa de visto?](#5)
-
+* [LINKS ÚTEIS](#links_uteis)
+* [ARTIGOS](#artigos)
+* [SITES DE EMPREGO](#empregos)
 
 # Dicas de uso do LinkedIn - Extra
 
@@ -61,6 +74,55 @@ Vou tentar resumir um pouco esses tipos de visto, como consegui-los e vou focar 
 - Stamp 3: Você tem conjugue e quer traze-lo, ele (a) terá direito caso você seja Stamp 1, Stamp 3 é o dele (a). Pode ficar em terras Irish enquanto você estiver por aqui, mas não te dá direito a trabalho formal, apenas o direito de viver aqui como dependente.
 
 
+# <a name="links_uteis"></a>LINKS ÚTEIS
+
+* Dúvidas visto de trabalho
+www.djei.ie
+* Visto de estudante? Pode trabalhar? 20 ou 40 horas?
+http://www.citizensinformation.ie/…/trav…/student_visas.html
+* Taxas
+http://ie.thesalarycalculator.co.uk/
+* TAX Calculator 2016
+http://www.virtualaccountant.ie/Tools/tax2016.jsp
+* TAX Calculator 2015, by contractor
+http://www.iconaccounting.ie/tax-calculator/
+* Tax Calculator 2014 ( veja quanto ira receber bruto esse ano)
+http://www.virtualaccountant.ie/Tools/tax2014.jsp
+* Revenue
+http://www.revenue.ie/en/index.html
+* Tenho direito a cidadania?
+http://www.inis.gov.ie/…/Naturalisation_Residency_Calculator
+* Tradução de diploma / Dublin Help 4 All Certified Translation
+http://www.languagesunlimited.ie/
+* Consultar Aplicação do Visto
+https://www.djei.ie/…/Employment-Permits/Current-Applicati…/
+* LinkedIn Resume Builder / Ajuda para montar curriculo
+http://resume.linkedinlabs.com/
+* Mapa das Empresas de TI na Irlanda
+http://zartis.com/techmap e https://www.techireland.org
+* Notícias sobre EU
+http://www.europarl.europa.eu/news/en
+* Visto da(o) esposa(o).
+https://www.facebook.com/groups/ITinDublin/permalink/919299441499802/
+
+# <a name="artigos"></a>ARTIGOS
+* How do I get a work permit for a software developer in Ireland?
+https://www.linkedin.com/…/how-do-i-get-work-permit-softwar…
+* How to Answer 23 of the Most Common Interview Questions
+http://www.wisebread.com/how-to-answer-23-of-the-most-commo…
+
+# <a name="empregos"></a>SITES DE EMPREGO
+* http://ie.indeed.com/
+* http://www.jobs.ie/
+* http://www.irishjobs.ie/
+* http://www.fas.ie/en/
+* http://www.monster.ie/
+* http://www.employee.ie/
+* http://ie.jobrapido.com/
+* http://www.recruitireland.com/
+* http://dublinstartupjobs.com/
+
+
 # Dicas de uso do LinkedIn - Extra
 
 ## <a name="linkedin_1"></a>Que idioma deixar meu LinkedIn?
@@ -98,51 +160,3 @@ Fazendo isso, colocando um bom resumo na primeira página, já aumenta as views 
 Tem outras maneiras ainda se gerar mais valor e contatos usando um site pessoal, outras redes sociais, mas isso é mais complicado e leva tempo. Só criando um bom LinkedIn e um bom site pessoal, uma página só, com seus contatos, ajuda muito.
 
 Isso foi o que [eu](https://www.linkedin.com/in/armandoaffonso/) fiz e gerou resultados.
-
-# LINKS ÚTEIS
-
-* Dúvidas visto de trabalho
-www.djei.ie
-* Visto de estudante? Pode trabalhar? 20 ou 40 horas?
-http://www.citizensinformation.ie/…/trav…/student_visas.html
-* Taxas
-http://ie.thesalarycalculator.co.uk/
-* TAX Calculator 2016
-http://www.virtualaccountant.ie/Tools/tax2016.jsp
-* TAX Calculator 2015, by contractor
-http://www.iconaccounting.ie/tax-calculator/
-* Tax Calculator 2014 ( veja quanto ira receber bruto esse ano)
-http://www.virtualaccountant.ie/Tools/tax2014.jsp
-* Revenue
-http://www.revenue.ie/en/index.html
-* Tenho direito a cidadania?
-http://www.inis.gov.ie/…/Naturalisation_Residency_Calculator
-* Tradução de diploma / Dublin Help 4 All Certified Translation
-http://www.languagesunlimited.ie/
-* Consultar Aplicação do Visto
-https://www.djei.ie/…/Employment-Permits/Current-Applicati…/
-* LinkedIn Resume Builder / Ajuda para montar curriculo
-http://resume.linkedinlabs.com/
-* Mapa das Empresas de TI na Irlanda
-http://zartis.com/techmap e https://www.techireland.org
-* Notícias sobre EU
-http://www.europarl.europa.eu/news/en
-* Visto da(o) esposa(o).
-https://www.facebook.com/groups/ITinDublin/permalink/919299441499802/
-
-# ARTIGOS
-* How do I get a work permit for a software developer in Ireland?
-https://www.linkedin.com/…/how-do-i-get-work-permit-softwar…
-* How to Answer 23 of the Most Common Interview Questions
-http://www.wisebread.com/how-to-answer-23-of-the-most-commo…
-
-# SITES DE EMPREGO
-* http://ie.indeed.com/
-* http://www.jobs.ie/
-* http://www.irishjobs.ie/
-* http://www.fas.ie/en/
-* http://www.monster.ie/
-* http://www.employee.ie/
-* http://ie.jobrapido.com/
-* http://www.recruitireland.com/
-* http://dublinstartupjobs.com/
