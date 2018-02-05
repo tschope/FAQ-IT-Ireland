@@ -8,7 +8,7 @@ Esse FAQ pertence aos seguintes grupos:
 * [Telegram - IT Cork/Galway * Preferimos o Telegram](https://t.me/itcorkgalway)
 
 - Criador: [Rodrigo Tschope](https://www.linkedin.com/in/tschope)
-- Colaborador: [Jader Oliveira](https://www.linkedin.com/in/tschope)
+- Colaborador: [Jader Oliveira](https://www.linkedin.com/in/jaderbueno/)
 - Colaborador: [Armando Affonso](https://www.linkedin.com/in/armandoaffonso/)
 
 O grupo é focado em responder dúvidas pontuais, pontos de vista, troca de informações, vagas e dúvidas gerais. Dúvidas genéricas, segue o roteiro abaixo:
