@@ -35,7 +35,7 @@ Um papo que rolou no grupo foi dicas sobre como se descatar no LinkedIn e rolou 
 
 ## <a name="1"></a>1. Como está o mercado de X na Irlanda? 
 
-É difícil saber pois a maioria no grupo é de TI, como você, e não Head Hunter. Pesquise, LinkedIn Jobs principalmente, vagas que você se encaixa, baseado no número de vagas dá para se ter uma noção de como está o mercado que você procura. Deixe alertas no App do LinkedIn Jobs com sua busca, facilita muito. 
+É difícil saber pois a maioria no grupo é de TI, como você, e não Head Hunter. Pesquise, LinkedIn Jobs principalmente e outros ([SITES DE EMPREGO](#empregos)), vagas que você se encaixa, baseado no número de vagas dá para se ter uma noção de como está o mercado que você procura. Deixe alertas no App do LinkedIn Jobs com sua busca, facilita muito. 
 
 ## <a name="2"></a>2. Preciso saber Inglês ou ter fluência?
 
