@@ -76,51 +76,33 @@ Vou tentar resumir um pouco esses tipos de visto, como consegui-los e vou focar 
 
 # <a name="links_uteis"></a>LINKS ÚTEIS
 
-* Dúvidas visto de trabalho
-www.djei.ie
-* Visto de estudante? Pode trabalhar? 20 ou 40 horas?
-http://www.citizensinformation.ie/…/trav…/student_visas.html
-* Taxas
-http://ie.thesalarycalculator.co.uk/
-* TAX Calculator 2016
-http://www.virtualaccountant.ie/Tools/tax2016.jsp
-* TAX Calculator 2015, by contractor
-http://www.iconaccounting.ie/tax-calculator/
-* Tax Calculator 2014 ( veja quanto ira receber bruto esse ano)
-http://www.virtualaccountant.ie/Tools/tax2014.jsp
-* Revenue
-http://www.revenue.ie/en/index.html
-* Tenho direito a cidadania?
-http://www.inis.gov.ie/…/Naturalisation_Residency_Calculator
-* Tradução de diploma / Dublin Help 4 All Certified Translation
-http://www.languagesunlimited.ie/
-* Consultar Aplicação do Visto
-https://www.djei.ie/…/Employment-Permits/Current-Applicati…/
-* LinkedIn Resume Builder / Ajuda para montar curriculo
-http://resume.linkedinlabs.com/
-* Mapa das Empresas de TI na Irlanda
-http://zartis.com/techmap e https://www.techireland.org
-* Notícias sobre EU
-http://www.europarl.europa.eu/news/en
-* Visto da(o) esposa(o).
-https://www.facebook.com/groups/ITinDublin/permalink/919299441499802/
+* [Dúvidas visto de trabalho](http://www.djei.ie)
+* [Visto de estudante? Pode trabalhar? 20 ou 40 horas?](http://www.citizensinformation.ie/en/travel_and_recreation/travel_to_ireland/student_visas.html)
+* [Taxas](http://ie.thesalarycalculator.co.uk/)
+* [TAX Calculator 2018](http://www.virtualaccountant.ie/Tools/tax2018.jsp)
+* [Revenue](http://www.revenue.ie/en/index.html)
+* [Tenho direito a cidadania Irlandesa?](http://www.inis.gov.ie/en/INIS/Pages/Naturalisation_Residency_Calculator)
+* [Tradução de diploma / Dublin Help 4 All Certified Translation](http://www.languagesunlimited.ie/)
+* [Consultar Aplicação do Visto](https://dbei.gov.ie/en/What-We-Do/Workplace-and-Skills/Employment-Permits/Current-Application-Processing-Dates/)
+* [LinkedIn Resume Builder / Ajuda para montar curriculo](http://resume.linkedinlabs.com/)
+* Mapa das Empresas de TI na Irlanda (http://zartis.com/techmap) e (https://www.techireland.org)
+* [Notícias sobre EU](http://www.europarl.europa.eu/news/en)
+* [Visto da(o) esposa(o).](https://www.facebook.com/groups/ITinDublin/permalink/919299441499802/)
 
 # <a name="artigos"></a>ARTIGOS
-* How do I get a work permit for a software developer in Ireland?
-https://www.linkedin.com/…/how-do-i-get-work-permit-softwar…
-* How to Answer 23 of the Most Common Interview Questions
-http://www.wisebread.com/how-to-answer-23-of-the-most-commo…
+* [How do I get a work permit for a software developer in Ireland?](https://www.linkedin.com/pulse/how-do-i-get-work-permit-software-developer-ireland-john-dennehy/)
+* [How to Answer 23 of the Most Common Interview Questions](http://www.wisebread.com/how-to-answer-23-of-the-most-common-interview-questions)
 
 # <a name="empregos"></a>SITES DE EMPREGO
-* http://ie.indeed.com/
-* http://www.jobs.ie/
-* http://www.irishjobs.ie/
-* http://www.fas.ie/en/
-* http://www.monster.ie/
-* http://www.employee.ie/
-* http://ie.jobrapido.com/
-* http://www.recruitireland.com/
-* http://dublinstartupjobs.com/
+* [Indeed](http://ie.indeed.com/)
+* [Jobs.IE](http://www.jobs.ie/)
+* [Irish Jobs](http://www.irishjobs.ie/)
+* [FAS](http://www.fas.ie/en/)
+* [Monster](http://www.monster.ie/)
+* [Employee IE](http://www.employee.ie/)
+* [Job Rapido](http://ie.jobrapido.com/)
+* [Recruit Ireland](http://www.recruitireland.com/)
+* [Start-up Jobs Dublin](http://dublinstartupjobs.com/)
 
 
 # Dicas de uso do LinkedIn - Extra
