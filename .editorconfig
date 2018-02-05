@@ -1,0 +1,12 @@
+root=true
+
+[*]
+trim_trailing_whitespace = true
+indent_style = space
+end_of_line = crlf
+
+[*.cs]
+indent_size = 4
+
+[*.xml]
+indent_style = space
