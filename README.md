@@ -2,11 +2,12 @@
 
 O grupo é focado em responder dúvidas pontuais, pontos de vista, troca de informações, vagas e dúvidas gerais. Dúvidas genéricas, segue o roteiro abaixo:
 
-* [1. Como está o mercado de X na Irlanda/Dublin?](#1)
+* [1. Como está o mercado de X na Irlanda?](#1)
 * [2. Preciso saber Inglês ou ter fluência?](#2)
 * [3. Preciso ser formado em TI? ](#3)
 * [4. Custo de vida na Irlanda é barato?](#4)
 * [5. Quero ir para trabalhar, como faço? Precisa de visto?](#5)
+
 
 # Dicas de uso do LinkedIn - Extra
 
@@ -19,7 +20,7 @@ Um papo que rolou no grupo foi dicas sobre como se descatar no LinkedIn e rolou 
 * [Outras redes sociais](#linkedin_5)
 * [O que não escrever no perfil](#linkedin_6)
 
-## <a name="1"></a>1. Como está o mercado de X na Irlanda/Dublin? 
+## <a name="1"></a>1. Como está o mercado de X na Irlanda? 
 
 É difícil saber pois a maioria no grupo é de TI, como você, e não Head Hunter. Pesquise, LinkedIn Jobs principalmente, vagas que você se encaixa, baseado no número de vagas dá para se ter uma noção de como está o mercado que você procura. Deixe alertas no App do LinkedIn Jobs com sua busca, facilita muito. 
 
@@ -33,7 +34,7 @@ Cada caso é cada caso, mas para pedir Critical Skills é preciso sim uma faculd
 
 ## <a name="4"></a>4. Custo de vida na Irlanda é barato?
 
-Também depende. Melhor site para comparação é https://www.numbeo.com/cost-of-living/in/Dublin, mas vamos a alguns fatos:
+Depende do condado escolhido. Melhor site para comparação https://www.numbeo.com/cost-of-living/in/Dublin https://www.numbeo.com/cost-of-living/in/Cork, mas vamos a alguns fatos:
 - Aluguel quarto/flat individual (casal) próximo ao centro, €800-1000, parte mais cara do custo de vida Dublin
 - Comida, uns €150-200/mês por pessoa, comendo bem e curtindo uma cervejinha
 - Valor de um Combo do Mc Donald's é de uns €5-6 (depende o Combo), restaurantes começa em uns €8, mas a média por um bom restaurante, com refri, fica na casa dos €12-15
@@ -68,7 +69,6 @@ Deixar em inglês, ou na língua que você espera trabalhar. Por exemplo, se que
 
 Cadastra seu LinkedIn em português na linguagem secundaria, ninguém encontra isso mas caso você precise, está lá atualizado, e se alguém pedir o link, você pode enviar essa versão para o recrutador. Há muitos termos de busca que só existe em inglês então faz tudo em inglês.
 
-
 ## <a name="linkedin_2"></a>Mentir não é legal em nenhum CV, muito menos LinkedIn.
 
 Fale sempre a verdade com relação à datas e cargos. Aonde eu trabalho eles verificam tudo, contratos, carteira de trabalho, então se você inflar seu CV eles podem pegar depois, então mesmo se você não tem nenhum documento, já procura carta de referencia desses clientes ou empresas para poder provar.
@@ -85,7 +85,6 @@ Não participe de correntes, assuntos polêmicos ou coisas em BR, porque aparece
 
 Não adianta ter um monte de conexões ruins. Seu feed fica lotado e você perde oportunidades.
 
-
 ## <a name="linkedin_5"></a>Outras redes sociais
 
 Coloquem link do seu GitHub, caso tenham, principalmente se você participa de algum projeto relevante ou tem projetos open source e listem suas experiências como voluntário na área correta.
@@ -99,3 +98,51 @@ Fazendo isso, colocando um bom resumo na primeira página, já aumenta as views 
 Tem outras maneiras ainda se gerar mais valor e contatos usando um site pessoal, outras redes sociais, mas isso é mais complicado e leva tempo. Só criando um bom LinkedIn e um bom site pessoal, uma página só, com seus contatos, ajuda muito.
 
 Isso foi o que [eu](https://www.linkedin.com/in/armandoaffonso/) fiz e gerou resultados.
+
+# LINKS ÚTEIS
+
+* Dúvidas visto de trabalho
+www.djei.ie
+* Visto de estudante? Pode trabalhar? 20 ou 40 horas?
+http://www.citizensinformation.ie/…/trav…/student_visas.html
+* Taxas
+http://ie.thesalarycalculator.co.uk/
+* TAX Calculator 2016
+http://www.virtualaccountant.ie/Tools/tax2016.jsp
+* TAX Calculator 2015, by contractor
+http://www.iconaccounting.ie/tax-calculator/
+* Tax Calculator 2014 ( veja quanto ira receber bruto esse ano)
+http://www.virtualaccountant.ie/Tools/tax2014.jsp
+* Revenue
+http://www.revenue.ie/en/index.html
+* Tenho direito a cidadania?
+http://www.inis.gov.ie/…/Naturalisation_Residency_Calculator
+* Tradução de diploma / Dublin Help 4 All Certified Translation
+http://www.languagesunlimited.ie/
+* Consultar Aplicação do Visto
+https://www.djei.ie/…/Employment-Permits/Current-Applicati…/
+* LinkedIn Resume Builder / Ajuda para montar curriculo
+http://resume.linkedinlabs.com/
+* Mapa das Empresas de TI na Irlanda
+http://zartis.com/techmap e https://www.techireland.org
+* Notícias sobre EU
+http://www.europarl.europa.eu/news/en
+* Visto da(o) esposa(o).
+https://www.facebook.com/groups/ITinDublin/permalink/919299441499802/
+
+# ARTIGOS
+* How do I get a work permit for a software developer in Ireland?
+https://www.linkedin.com/…/how-do-i-get-work-permit-softwar…
+* How to Answer 23 of the Most Common Interview Questions
+http://www.wisebread.com/how-to-answer-23-of-the-most-commo…
+
+# SITES DE EMPREGO
+* http://ie.indeed.com/
+* http://www.jobs.ie/
+* http://www.irishjobs.ie/
+* http://www.fas.ie/en/
+* http://www.monster.ie/
+* http://www.employee.ie/
+* http://ie.jobrapido.com/
+* http://www.recruitireland.com/
+* http://dublinstartupjobs.com/
