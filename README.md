@@ -26,7 +26,7 @@ Os grupos de WhatsApp e Telegram são focado em responder dúvidas pontuais, pon
 
 # Dicas de uso do LinkedIn - Extra
 
-Um papo que rolou no grupo foi dicas sobre como se descatar no LinkedIn e rolou várias dicas legais, vou repassar. Grande ajuda do amigo [Armando Affonso](https://www.linkedin.com/in/armandoaffonso/)
+Um papo que rolou no grupo foi dicas sobre como se destacar no LinkedIn e rolou várias dicas legais, vou repassar. Grande ajuda do amigo [Armando Affonso](https://www.linkedin.com/in/armandoaffonso/)
 
 * [Que idioma deixar meu LinkedIn?](#linkedin_1)
 * [Mentir não é legal em nenhum CV, muito menos LinkedIn.](#linkedin_2)
@@ -52,26 +52,26 @@ Cada caso é cada caso, mas para pedir Critical Skills é preciso sim uma faculd
 Depende do condado escolhido. Melhor site para comparação https://www.numbeo.com/cost-of-living/in/Dublin https://www.numbeo.com/cost-of-living/in/Cork, mas vamos a alguns fatos:
 - Aluguel quarto/flat individual (casal) próximo ao centro, €800-1000, parte mais cara do custo de vida Dublin
 - Comida, uns €150-200/mês por pessoa, comendo bem e curtindo uma cervejinha
-- Valor de um Combo do Mc Donald's é de uns €5-6 (depende o Combo), restaurantes começa em uns €8, mas a média por um bom restaurante, com refri, fica na casa dos €12-15
+- Valor de um Combo do Mc Donald's é de uns €5-6 (depende o Combo), restaurantes começa em uns €8, mas a média por um bom restaurante, com refrigerante, fica na casa dos €12-15
 - Comida tem sempre os lanches baratos e cozinhar em casa SEMPRE é a opção mais barata
-- Cerveja nos pub's constumam ser a facada, uns €5-6 , mas comprar no mercado pode sair até €1 a lata de 500ml, mas a média normal no mercado é de €2-3 por 500ml de breja
-- Transporte é caro, estudante é no máximo uns €80 mês, €20 estudante, e acredite, pesa, melhor opção, bike
+- Cerveja nos pub's costumam ser a facada, uns €5-6 , mas comprar no mercado pode sair até €1 a lata de 500ml, mas a média normal no mercado é de €2-3 por 500ml de breja
+- Transporte é caro, estudante é no máximo uns €80 mês, €20/semana Leapcard(Bilhete único, RioCard e esses cartões de transporte) estudante, e acredite, pesa, melhor opção, bike
 - Celular é barato com planos de €20 mês ilimitado, operadoras a indicar, 3, Eir e Vodafone, corra da Lyca.
-- AGUA - Barato, no geral cobram de 2 em 2 meses uma mereca. Aonde moro, um prédio não cobram agua, só Luz e Gás. Não sei detalhes de valores pois não tenha essa experiencia.
-- LUZ e GÁS - Gás é muito usado aqui para Heater (aquecedor) e Boiler (boiler também tem eletrico). No geral é barato, desde que a conta seja no seu nome. Contas pré pagas são mais cara. Aqui tem DEZENAS de empresas que fazem esse serviço. Mais detalhes sugiro olhar [Switcher IE](https://switcher.ie/). Preço médio por pessoa por mês é de uns €40-50 por mês por pessoa.
+- ÁGUA - Barato, no geral cobram de 2 em 2 meses uma merreca. Aonde moro, um prédio, não cobram água, só Luz e Gás. Não sei detalhes de valores pois não tenha essa experiência.
+- LUZ e GÁS - Gás é muito usado aqui para Heather (aquecedor) e Boiler (boiler também tem elétrico). No geral é barato, desde que a conta seja no seu nome. Contas pré pagas são mais caras, mas não muito. Aqui tem DEZENAS de empresas que fazem esse serviço. Mais detalhes sugiro olhar [Switcher IE](https://switcher.ie/). Preço médio por pessoa por mês é de uns €30-50 por mês por pessoa.
 
-Lembre-se o salario "mínimo" aqui é €1600 Full time e tirando o aluguel, tudo mais pode ser bem economizado.
+Lembre-se o salário "mínimo" aqui é €1500 Full time e tirando o aluguel, tudo mais pode ser bem economizado.
 
 ## <a name="5"></a>5. Quero ir para trabalhar, como faço? Precisa de visto?
 
-SIM! A Irlanda tem alguns tipos de visto, os mais importantes são, Stamp 1 (Permissão de trabalho), Stamp 2 (Visto de estudante), Stamp 3 (Conjugue de quem tem Stamp 1) e Stamp 4 (quem tem passaporte Europeu).
+SIM! A Irlanda tem alguns tipos de visto, os mais importantes são, Stamp 1 (Permissão de trabalho), Stamp 2 (Visto de estudante), Stamp 3 (Cônjuge de quem tem Stamp 1) e Stamp 4 (Cônjuge de um Europeu ou 2 anos de Stamp 1).
 Vou tentar resumir um pouco esses tipos de visto, como consegui-los e vou focar em detalhes a nossa área, pois existem dezenas de regras. 
 
-- Stamp 1: Visto de trabalho, você precisa de uma proposta formal de trabalho no valor mínimo de 30mil/ano e um diploma na área de tecnologia (nosso caso) ou proposta de 60k/cear mas não precisa de diploma. Com isso você pode requisitar o Stamp 1 que tem que ter todo o aval da empresa que te fez a proposta de trabalho, pois a empresa também precisa estar cadastrada nos órgãos do governo e seguir alguns critérios. O custo é de €1000 que costumam ser pagos pela empresa e o contrato gira em torno de 2 anos de trabalho. Em quanto não sai esse visto de trabalho você só pode trabalhar de acordo com o seu atual tipo de Stamp (estudante 20h semanais e outras variações).
+- Stamp 1: Visto de trabalho, você precisa de uma proposta formal de trabalho no valor mínimo de €30mil/ano e um diploma na área de tecnologia (nosso caso) ou proposta de €60k/ano mas não precisa de diploma. Essas regras se aplicam ao [Critical Skills](https://dbei.gov.ie/en/What-We-Do/Workplace-and-Skills/Employment-Permits/Permit-Types/Critical-Skills-Employment-Permit/). Com isso você pode requisitar o Stamp 1 que tem que ter todo o aval da empresa que te fez a proposta de trabalho, pois a empresa também precisa estar cadastrada nos órgãos do governo e seguir alguns critérios. O custo é de €1000 que costumam ser pagos pela empresa e o contrato gira em torno de 2 anos de trabalho. Enquanto não sai esse visto de trabalho você só pode trabalhar de acordo com o seu atual tipo de Stamp (Por exemplo, estudante 20h semanais e outras variações).
 
-- Stamp 2: A maneira mais comum de se vir para Irlanda, você precisa de um curso de Inglês pago de 25 semanas + 10 semanas de férias e você tem direito a trabalhar 20h semanais e 40h semanais nos meses de férias escolares (junho a setembro e 15/12 a 15/01). Existe uma variação desse Stamp que é o de faculdade, que esse pode trabalhar 40h semanais. O pessoal costuma vir com esse tipo de permissão e aqui aprimora Inglês e tem que achar uma empresa que patrocine o Stamp 1
+- Stamp 2: A maneira mais comum de se vir para Irlanda, você precisa de um curso de Inglês pago de 25 semanas + 10 semanas de férias e você tem direito a trabalhar 20h semanais e 40h semanais nos meses de férias escolares (junho a setembro e de 15/12 a 15/01). Existe uma variação desse Stamp que é o de faculdade, que esse pode trabalhar 40h semanais. O pessoal costuma vir com a permissão de estudante, General English Course, aprimora Inglês e tenta achar uma empresa que patrocine o Stamp 1.
 
-- Stamp 4: Esse é desejado por todos os brasileiros, pois é o menos burocrático para se conseguir emprego e abre muitas portas. Para obtê-lo você precisa ser um cidadão europeu (ter um passaporte de uma nacionalidade da União Europeia) e provar para o governo que você tem trabalho ou condições para se manter. Como você já é europeu, as empresas dão preferencias pois ela só precisa te contratar, não precisa pagar visto, se adequar as regras e etc. ter passaporte é luxo. Stamp 4 também pode ser conseguido por Brasileiros em outra condição, depois de 2 anos com Stamp 1 você troca para Stamp 4 com validade de 2 anos. Se você fizer 5 anos por aqui com vistos de trabalho, Stamp 1 + Stamp 4, você pode requisitar o Passaporte Irlandês. Sampa 4 também é o tipo para conjugue de cidadão Europeu ou de um Irish.
+- Stamp 4: Esse é desejado por todos os brasileiros, pois é o menos burocrático para se conseguir emprego e abre muitas portas. Para obtê-lo você precisa ser um cidadão europeu (ter um passaporte de uma nacionalidade da União Europeia) e provar para o governo que você tem trabalho ou condições para se manter. Como você já é europeu, as empresas dão preferencias pois ela só precisa te contratar, não precisa pagar visto, se adequar as regras e etc. ter passaporte é luxo. Stamp 4 também pode ser conseguido depois de 2 anos com Stamp 1 você troca para Stamp 4 com validade de 2 anos. Se você fizer 5 anos por aqui com vistos de trabalho, Stamp 1 + Stamp 4, você pode requisitar o Passaporte Irlandês. Stamp 4 também é o tipo de visto para cônjuge de cidadão Europeu ou de um Irish.
 
 - Stamp 3: Você tem conjugue e quer traze-lo, ele (a) terá direito caso você seja Stamp 1, Stamp 3 é o dele (a). Pode ficar em terras Irish enquanto você estiver por aqui, mas não te dá direito a trabalho formal, apenas o direito de viver aqui como dependente.
 
