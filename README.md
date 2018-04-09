@@ -1,4 +1,4 @@
-# LEIA ANTES DE PERGUNTAR: 
+# LEIA ANTES DE PERGUNTAR
 
 Esse FAQ pertence aos seguintes grupos:
 
@@ -11,13 +11,15 @@ Esse FAQ pertence aos seguintes grupos:
 - Colaborador: [Jader Oliveira](https://www.linkedin.com/in/jaderbueno/)
 - Colaborador: [Armando Affonso](https://www.linkedin.com/in/armandoaffonso/)
 
-O grupo é focado em responder dúvidas pontuais, pontos de vista, troca de informações, vagas e dúvidas gerais. Dúvidas genéricas, segue o roteiro abaixo:
+Os grupos de WhatsApp e Telegram são focado em responder dúvidas pontuais, pontos de vista, troca de informações, vagas e dúvidas gerais. Dúvidas genéricas, segue o roteiro abaixo:
 
 * [1. Como está o mercado de X na Irlanda?](#1)
 * [2. Preciso saber Inglês ou ter fluência?](#2)
 * [3. Preciso ser formado em TI? ](#3)
 * [4. Custo de vida na Irlanda é barato?](#4)
 * [5. Quero ir para trabalhar, como faço? Precisa de visto?](#5)
+* [Lista de empresas que deram visto para estrangeiros em 2017](https://dbei.gov.ie/en/Publications/Employment-Permit-Statistics-2017.html)
+* [Lista de empresas que deram visto para estrangeiros em 2018](https://dbei.gov.ie/en/Publications/Employment-Permit-Statistics-2018.html)
 * [LINKS ÚTEIS](#links_uteis)
 * [ARTIGOS](#artigos)
 * [SITES DE EMPREGO](#empregos)
@@ -77,6 +79,8 @@ Vou tentar resumir um pouco esses tipos de visto, como consegui-los e vou focar 
 # <a name="links_uteis"></a>LINKS ÚTEIS
 
 * [Dúvidas visto de trabalho](http://www.djei.ie)
+* [Lista de empresas que deram visto para estrangeiros em 2017](https://dbei.gov.ie/en/Publications/Employment-Permit-Statistics-2017.html)
+* [Lista de empresas que deram visto para estrangeiros em 2018](https://dbei.gov.ie/en/Publications/Employment-Permit-Statistics-2018.html)
 * [Visto de estudante? Pode trabalhar? 20 ou 40 horas?](http://www.citizensinformation.ie/en/travel_and_recreation/travel_to_ireland/student_visas.html)
 * [Taxas](http://ie.thesalarycalculator.co.uk/)
 * [TAX Calculator 2018](http://www.virtualaccountant.ie/Tools/tax2018.jsp)
@@ -85,7 +89,7 @@ Vou tentar resumir um pouco esses tipos de visto, como consegui-los e vou focar 
 * [Tradução de diploma / Dublin Help 4 All Certified Translation](http://www.languagesunlimited.ie/)
 * [Consultar Aplicação do Visto](https://dbei.gov.ie/en/What-We-Do/Workplace-and-Skills/Employment-Permits/Current-Application-Processing-Dates/)
 * [LinkedIn Resume Builder / Ajuda para montar curriculo](http://resume.linkedinlabs.com/)
-* Mapa das Empresas de TI na Irlanda (http://zartis.com/techmap) e (https://www.techireland.org)
+* [Mapa das Empresas de TI na Irlanda](http://zartis.com/techmap) e [TechIreland](https://www.techireland.org)
 * [Notícias sobre EU](http://www.europarl.europa.eu/news/en)
 * [Visto da(o) esposa(o).](https://www.facebook.com/groups/ITinDublin/permalink/919299441499802/)
 
