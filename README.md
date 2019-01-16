@@ -10,6 +10,7 @@ Esse FAQ pertence aos seguintes grupos:
 - Criador: [Rodrigo Tschope](https://www.linkedin.com/in/tschope)
 - Colaborador: [Jader Oliveira](https://www.linkedin.com/in/jaderbueno/)
 - Colaborador: [Armando Affonso](https://www.linkedin.com/in/armandoaffonso/)
+- Links: [IT Dublin Facebook](https://www.facebook.com/groups/ITinDublin/)
 
 Os grupos de WhatsApp e Telegram são focado em responder dúvidas pontuais, pontos de vista, troca de informações, vagas e dúvidas gerais. Dúvidas genéricas, segue o roteiro abaixo:
 
@@ -76,7 +77,7 @@ Vou tentar resumir um pouco esses tipos de visto, como consegui-los e vou focar 
 - Stamp 3: Você tem conjugue e quer traze-lo, ele (a) terá direito caso você seja Stamp 1, Stamp 3 é o dele (a). Pode ficar em terras Irish enquanto você estiver por aqui, mas não te dá direito a trabalho formal, apenas o direito de viver aqui como dependente.
 
 
-# <a name="links_uteis"></a>LINKS ÚTEIS
+# <a name="links_uteis"></a>LINKS ÚTEIS retirado do [Grupo do Facebook](https://www.facebook.com/groups/ITinDublin/)
 
 * [Dúvidas visto de trabalho](http://www.djei.ie)
 * [Lista de empresas que deram visto para estrangeiros em 2017](https://dbei.gov.ie/en/Publications/Employment-Permit-Statistics-2017.html)
@@ -93,11 +94,11 @@ Vou tentar resumir um pouco esses tipos de visto, como consegui-los e vou focar 
 * [Notícias sobre EU](http://www.europarl.europa.eu/news/en)
 * [Visto da(o) esposa(o).](https://www.facebook.com/groups/ITinDublin/permalink/919299441499802/)
 
-# <a name="artigos"></a>ARTIGOS
+# <a name="artigos"></a>ARTIGOS retirado do [Grupo do Facebook](https://www.facebook.com/groups/ITinDublin/)
 * [How do I get a work permit for a software developer in Ireland?](https://www.linkedin.com/pulse/how-do-i-get-work-permit-software-developer-ireland-john-dennehy/)
 * [How to Answer 23 of the Most Common Interview Questions](http://www.wisebread.com/how-to-answer-23-of-the-most-common-interview-questions)
 
-# <a name="empregos"></a>SITES DE EMPREGO
+# <a name="empregos"></a>SITES DE EMPREGO retirado do [Grupo do Facebook](https://www.facebook.com/groups/ITinDublin/)
 * [Indeed](http://ie.indeed.com/)
 * [Jobs.IE](http://www.jobs.ie/)
 * [Irish Jobs](http://www.irishjobs.ie/)
