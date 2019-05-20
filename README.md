@@ -76,7 +76,7 @@ Vou tentar resumir um pouco esses tipos de visto, como consegui-los e vou focar 
 
 - Stamp 3: UPDATE: 15/03/2019: Atenção, se o seu conjugue for Stamp 1 Critical Skills você tem direito agora a Stamp 1 com as mesmas condições trabalhistas do seu conjugue. Apenas para Stamp 1 Critical Skills. Você tem conjugue e quer traze-lo, ele(a) terá direito caso você seja Stamp 1 General Skills, Stamp 3 é o dele(a). Pode ficar em terras Irish enquanto você estiver por aqui, mas não te dá direito a trabalho formal, apenas o direito de viver aqui como dependente. 
 
-- Cidadania de um país da União Europeia: Se você possui cidadania de algum país da União Europeia (Italiana, Portuguesa, Alemã, Polonesa, Espanhola e etc) você não precisa de visto para permanecer na Irlanda (morar e trabalhar), você tem todos os direitos e deveres de um cidadão Irlandês, menos votar. Você também está apto a trazer sua esposa e filhos e requisitar o Stamp 4 para eles, tendo assim os mesmo direitos de trabalho que você.
+- Cidadania de um país da União Europeia: Se você possui cidadania de algum país da União Europeia (Italiana, Portuguesa, Alemã, Polonesa, Espanhola e etc) você não precisa de visto para permanecer na Irlanda (morar e trabalhar), você tem todos os direitos e deveres de um cidadão Irlandês, inclusive votar, mas isso qualquer residente pode. Você também está apto a trazer sua esposa e filhos e requisitar o Stamp 4 para eles, tendo assim os mesmo direitos de trabalho que você.
 
 
 # <a name="links_uteis"></a>LINKS ÚTEIS retirado do [Grupo do Facebook](https://www.facebook.com/groups/ITinDublin/)
