@@ -95,6 +95,7 @@ Vou tentar resumir um pouco esses tipos de visto, como consegui-los e vou focar 
 * [Mapa das Empresas de TI na Irlanda](http://zartis.com/techmap) e [TechIreland](https://www.techireland.org)
 * [Notícias sobre EU](http://www.europarl.europa.eu/news/en)
 * [Visto da(o) esposa(o).](https://www.facebook.com/groups/ITinDublin/permalink/919299441499802/)
+* [Lista de empresas que fizeram visto de trabalho nos últimos 5 anos, agregado](https://docs.google.com/spreadsheets/d/1DCVOEXl1RRmVxv4YKg8WFqH2BQwseOcMHI36ymRiwOQ/edit?usp=sharing)
 
 # <a name="artigos"></a>ARTIGOS retirado do [Grupo do Facebook](https://www.facebook.com/groups/ITinDublin/)
 * [How do I get a work permit for a software developer in Ireland?](https://www.linkedin.com/pulse/how-do-i-get-work-permit-software-developer-ireland-john-dennehy/)
