@@ -1,5 +1,15 @@
 # LEIA ANTES DE PERGUNTAR
 
+<<<<<<< HEAD
+=======
+Esse FAQ pertence aos seguintes grupos:
+
+* [WhatsApp - IT Dublin](https://chat.whatsapp.com/FZZto7hIEAy5P04SUBQG5z)
+* [WhatsApp - IT Cork/Galway](https://chat.whatsapp.com/F44zNhQu8gZKmQFsENGtvS)
+* [Telegram - IT Dublin * Preferimos o Telegram](https://t.me/ITDublin)
+* [Telegram - IT Cork/Galway * Preferimos o Telegram](https://t.me/itcorkgalway)
+
+>>>>>>> 2789837e56f8cad9207eaefe9872c45126ac1602
 - Criador: [Rodrigo Tschope](https://www.linkedin.com/in/tschope)
 - Colaborador: [Jader Oliveira](https://www.linkedin.com/in/jaderbueno/)
 - Colaborador: [Armando Affonso](https://www.linkedin.com/in/armandoaffonso/)
@@ -99,6 +109,7 @@ Vou tentar resumir um pouco esses tipos de Permissão de Residência, como conse
 * [Mapa das Empresas de TI na Irlanda](http://zartis.com/techmap) e [TechIreland](https://www.techireland.org)
 * [Notícias sobre EU](http://www.europarl.europa.eu/news/en)
 * [Visto da(o) esposa(o).](https://www.facebook.com/groups/ITinDublin/permalink/919299441499802/)
+* [Lista de empresas que fizeram visto de trabalho nos últimos 5 anos, agregado](https://docs.google.com/spreadsheets/d/1DCVOEXl1RRmVxv4YKg8WFqH2BQwseOcMHI36ymRiwOQ/edit?usp=sharing)
 
 # <a name="artigos"></a>ARTIGOS retirado do [Grupo do Facebook](https://www.facebook.com/groups/ITinDublin/)
 * [How do I get a work permit for a software developer in Ireland?](https://www.linkedin.com/pulse/how-do-i-get-work-permit-software-developer-ireland-john-dennehy/)
