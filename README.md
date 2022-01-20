@@ -1,15 +1,5 @@
 # LEIA ANTES DE PERGUNTAR
 
-<<<<<<< HEAD
-=======
-Esse FAQ pertence aos seguintes grupos:
-
-* [WhatsApp - IT Dublin](https://chat.whatsapp.com/FZZto7hIEAy5P04SUBQG5z)
-* [WhatsApp - IT Cork/Galway](https://chat.whatsapp.com/F44zNhQu8gZKmQFsENGtvS)
-* [Telegram - IT Dublin * Preferimos o Telegram](https://t.me/ITDublin)
-* [Telegram - IT Cork/Galway * Preferimos o Telegram](https://t.me/itcorkgalway)
-
->>>>>>> 2789837e56f8cad9207eaefe9872c45126ac1602
 - Criador: [Rodrigo Tschope](https://www.linkedin.com/in/tschope)
 - Colaborador: [Jader Oliveira](https://www.linkedin.com/in/jaderbueno/)
 - Colaborador: [Armando Affonso](https://www.linkedin.com/in/armandoaffonso/)
@@ -28,8 +18,7 @@ Os grupos de WhatsApp e Telegram são focado em responder dúvidas pontuais, pon
 * [ARTIGOS](#artigos)
 * [SITES DE EMPREGO](#empregos)
 
-
-  Esse FAQ pertence aos seguintes grupos:
+Esse FAQ pertence aos seguintes grupos:
 
 * [WhatsApp - IT Dublin](https://chat.whatsapp.com/FZZto7hIEAy5P04SUBQG5z)
 * [WhatsApp - IT Cork/Galway](https://chat.whatsapp.com/82MZDQzZGa013y2cFWwT5i)
