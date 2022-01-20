@@ -50,18 +50,18 @@ Cada caso é cada caso, mas para pedir Critical Skills (salário anual entre €
 
 ## <a name="4"></a>4. Custo de vida na Irlanda é barato?
 
-Depende do condado escolhido. Melhor site para comparação https://www.numbeo.com/cost-of-living/in/Dublin https://www.numbeo.com/cost-of-living/in/Cork, mas vamos a alguns fatos:
+Depende do condado escolhido. Melhor site para comparação [Numbeo Dublin](https://www.numbeo.com/cost-of-living/in/Dublin) e [Numbeo Cork](https://www.numbeo.com/cost-of-living/in/Cork) , mas vamos a alguns fatos:
 - Aluguel quarto/flat individual (casal) próximo ao centro, €900-1100, parte mais cara do custo de vida Dublin
 - Comida, uns €150-200/mês por pessoa, comendo bem e curtindo uma cervejinha
-- Valor de um Combo do Mc Donald's é de uns €5-6 (depende o Combo), restaurantes começa em uns €8, mas a média por um bom restaurante, com refrigerante, fica na casa dos €12-15
+- Valor de um Combo do Mc Donald's é de uns €6-7 (depende o Combo), restaurantes começa em uns €9-10, mas a média por um bom restaurante, com bebida, fica na casa dos €13-16
 - Comida tem sempre os lanches baratos e cozinhar em casa SEMPRE é a opção mais barata
-- Cerveja nos pub's costumam ser a facada, uns €5-6 , mas comprar no mercado pode sair até €1 a lata de 500ml, mas a média normal no mercado é de €2-3 por 500ml de breja
+- Cerveja nos pub's costumam ser a facada, uns €6-7 , mas comprar no mercado pode sair até €1 a lata de 500ml, mas a média normal no mercado é de €3-4 por 500ml de breja
 - Transporte é caro, estudante é no máximo uns €80 mês, €20/semana Leapcard(Bilhete único, RioCard e esses cartões de transporte) estudante, e acredite, pesa, melhor opção, bike/patinete eletrica
-- Celular é barato com planos de €20 mês ilimitado, operadoras a indicar, 3, Eir e Vodafone, corra da Lyca.
+- Celular é barato com planos de €20 mês ilimitado, operadoras a indicar, [3](https://www.three.ie/), [48 (A mais barata, 10,99 com o sinal da Three)](https://refer.48.ie/MD0kKv), [Eir](https://www.eir.ie/mobile/) e [Vodafone](https://n.vodafone.ie/shop/pay-as-you-go-plans.html), corra da Lyca.
 - ÁGUA - Barato, no geral cobram de 2 em 2 meses uma merreca. Aonde moro, um prédio, não cobram água, só Luz e Gás. Não sei detalhes de valores pois não tenha essa experiência.
 - LUZ e GÁS - Gás é muito usado aqui para Heather (aquecedor) e Boiler (boiler também tem elétrico). No geral é barato, desde que a conta seja no seu nome. Contas pré pagas são mais caras, mas não muito. Aqui tem DEZENAS de empresas que fazem esse serviço. Mais detalhes sugiro olhar [Switcher IE](https://switcher.ie/). Preço médio por pessoa por mês é de uns €30-50 por mês por pessoa.
 
-Lembre-se o salário "mínimo" aqui é €1568.00 (€9.80/h) Full time (160/h mes) e tirando o aluguel, tudo mais pode ser bem economizado.
+Lembre-se o salário "mínimo" aqui é €1680.00 (€10.50/h) Full time (160/h mes) e tirando o aluguel, tudo mais pode ser bem economizado.
 
 ## <a name="5"></a>5. Quero ir para trabalhar, como faço? Precisa de visto? Precisa de Permissão de Residência?
 
