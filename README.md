@@ -21,7 +21,7 @@ Os grupos de WhatsApp e Telegram são focado em responder dúvidas pontuais, pon
 Esse FAQ pertence aos seguintes grupos:
 
 * [WhatsApp - IT Dublin](https://chat.whatsapp.com/FZZto7hIEAy5P04SUBQG5z)
-* [WhatsApp - IT Cork/Galway](https://chat.whatsapp.com/82MZDQzZGa013y2cFWwT5i)
+* [WhatsApp - IT Cork/Galway](https://chat.whatsapp.com/F44zNhQu8gZKmQFsENGtvS)
 * [Telegram - IT Dublin * Preferimos o Telegram](https://t.me/ITDublin)
 * [Telegram - IT Cork/Galway * Preferimos o Telegram](https://t.me/itcorkgalway)
 
