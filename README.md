@@ -20,14 +20,14 @@ Os grupos de WhatsApp e Telegram são focado em responder dúvidas pontuais, pon
 
 Esse FAQ pertence aos seguintes grupos:
 
-* [WhatsApp - IT Dublin](https://chat.whatsapp.com/FZZto7hIEAy5P04SUBQG5z)
+* [WhatsApp - IT Dublin](https://chat.whatsapp.com/FLzaSWjjJeaKqwVV45MrHd)
 * [WhatsApp - IT Cork/Galway](https://chat.whatsapp.com/F44zNhQu8gZKmQFsENGtvS)
 * [Telegram - IT Dublin * Preferimos o Telegram](https://t.me/ITDublin)
 * [Telegram - IT Cork/Galway * Preferimos o Telegram](https://t.me/itcorkgalway)
 
 # Dicas de uso do LinkedIn - Extra
 
-Um papo que rolou no grupo foi dicas sobre como se destacar no LinkedIn e rolou várias dicas legais, vou repassar. Grande ajuda do amigo [Armando Affonso](https://www.linkedin.com/in/armandoaffonso/)
+Um papo que rolou no grupo foi dicas sobre como se destacar no LinkedIn e rolou várias dicas legais. Grande ajuda do amigo [Armando Affonso](https://www.linkedin.com/in/armandoaffonso/)
 
 * [Que idioma deixar meu LinkedIn?](#linkedin_1)
 * [Mentir não é legal em nenhum CV, muito menos LinkedIn.](#linkedin_2)
@@ -46,22 +46,22 @@ Aqui a língua base é o Inglês então o mínimo é inglês intermediário com 
 
 ## <a name="3"></a>3. Preciso ser formado em TI?
 
-Cada caso é cada caso, mas para pedir Critical Skills (salário anual entre €30 a €60 mil anual) é preciso sim ter um diploma, pode ser técnologo, desde que a tradução do diploma tenha a palavra Degree, então apenas certificados e experiência no geral (apenas para salários acima de €60 mil anual), podem não ser o suficiente.
+Cada caso é cada caso, mas para pedir Critical Skills (salário anual entre €32 a €64 mil anual) é preciso sim ter um diploma, pode ser técnologo, desde que a tradução do diploma tenha a palavra Degree, então apenas certificados e experiência no geral (apenas para salários acima de €64 mil anual), podem não ser o suficiente.
 
 ## <a name="4"></a>4. Custo de vida na Irlanda é barato?
 
 Depende do condado escolhido. Melhor site para comparação [Numbeo Dublin](https://www.numbeo.com/cost-of-living/in/Dublin) e [Numbeo Cork](https://www.numbeo.com/cost-of-living/in/Cork) , mas vamos a alguns fatos:
-- Aluguel quarto/flat individual (casal) próximo ao centro, €900-1100, parte mais cara do custo de vida Dublin
+- Aluguel quarto/flat individual (casal) próximo ao centro, €1000-1200, parte mais cara do custo de vida Dublin
 - Comida, uns €150-200/mês por pessoa, comendo bem e curtindo uma cervejinha
-- Valor de um Combo do Mc Donald's é de uns €6-7 (depende o Combo), restaurantes começa em uns €9-10, mas a média por um bom restaurante, com bebida, fica na casa dos €13-16
+- Valor de um Combo do Mc Donald's é de uns €6-7 (depende o Combo), restaurantes começa em uns €11-13, mas a média por um bom restaurante, com bebida, fica na casa dos €16-20
 - Comida tem sempre os lanches baratos e cozinhar em casa SEMPRE é a opção mais barata
-- Cerveja nos pub's costumam ser a facada, uns €6-7 , mas comprar no mercado pode sair até €1 a lata de 500ml, mas a média normal no mercado é de €3-4 por 500ml de breja
+- Cerveja nos pub's costumam ser a facada, uns €6-8 , mas comprar no mercado pode sair até €2.50 a lata de 500ml, mas a média normal no mercado é de €4-5 por 500ml de breja
 - Transporte é caro, estudante é no máximo uns €80 mês, €20/semana Leapcard(Bilhete único, RioCard e esses cartões de transporte) estudante, e acredite, pesa, melhor opção, bike/patinete eletrica
 - Celular é barato com planos de €20 mês ilimitado, operadoras a indicar, [3](https://www.three.ie/), [48 (A mais barata, 10,99 com o sinal da Three)](https://refer.48.ie/MD0kKv), [Eir](https://www.eir.ie/mobile/) e [Vodafone](https://n.vodafone.ie/shop/pay-as-you-go-plans.html), corra da Lyca.
 - ÁGUA - Barato, no geral cobram de 2 em 2 meses uma merreca. Aonde moro, um prédio, não cobram água, só Luz e Gás. Não sei detalhes de valores pois não tenha essa experiência.
 - LUZ e GÁS - Gás é muito usado aqui para Heather (aquecedor) e Boiler (boiler também tem elétrico). No geral é barato, desde que a conta seja no seu nome. Contas pré pagas são mais caras, mas não muito. Aqui tem DEZENAS de empresas que fazem esse serviço. Mais detalhes sugiro olhar [Switcher IE](https://switcher.ie/). Preço médio por pessoa por mês é de uns €30-50 por mês por pessoa.
 
-Lembre-se o salário "mínimo" aqui é €1680.00 (€10.50/h) Full time (160/h mes) e tirando o aluguel, tudo mais pode ser bem economizado.
+Lembre-se o salário "mínimo" aqui é €1808.00 (€11.30/h) Full time (160/h mes) e tirando o aluguel, tudo mais pode ser bem economizado.
 
 ## <a name="5"></a>5. Quero ir para trabalhar, como faço? Precisa de visto? Precisa de Permissão de Residência?
 
@@ -79,7 +79,7 @@ Vou tentar resumir um pouco esses tipos de Permissão de Residência, como conse
 
 - Stamp 3: UPDATE: 15/03/2019: Atenção, se o seu conjugue for Stamp 1 Critical Skills você tem direito agora a Stamp 1G com as mesmas condições trabalhistas do seu conjugue. Apenas para Stamp 1 Critical Skills. Você tem conjugue e quer traze-lo, ele(a) terá direito caso você seja Stamp 1 General Skills, Stamp 3 é o dele(a). Pode ficar em terras Irish enquanto você estiver por aqui, mas não te dá direito a trabalho formal, apenas o direito de viver aqui como dependente.
 
-- Cidadania de um país da União Europeia: Se você possui cidadania de algum país da União Europeia (Italiana, Portuguesa, Alemã, Polonesa, Espanhola e etc) você não precisa de Permissão de Residência para permanecer na Irlanda (morar e trabalhar), você tem todos os direitos e deveres de um cidadão Irlandês, menos votar. Você também está apto a trazer sua esposa e filhos e requisitar o Stamp 4 para eles, tendo assim os mesmo direitos de trabalho que você.
+- Cidadania de um país da União Europeia: Se você possui cidadania de algum país da União Europeia (Italiana, Portuguesa, Alemã, Polonesa, Espanhola e etc) você não precisa de Permissão de Residência para permanecer na Irlanda (morar e trabalhar), você tem todos os direitos e deveres de um cidadão Irlandês, até votar (se quiser, depende de morar aqui a algum tempo). Você também está apto a trazer sua esposa e filhos e requisitar o Stamp 4 para eles, tendo assim os mesmo direitos de trabalho que você.
 
 
 # <a name="links_uteis"></a>LINKS ÚTEIS retirado do [Grupo do Facebook](https://www.facebook.com/groups/ITinDublin/)
