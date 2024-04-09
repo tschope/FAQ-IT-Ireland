@@ -46,23 +46,23 @@ Aqui a língua base é o Inglês, então o mínimo é inglês intermediário com
 
 ## <a name="3"></a>3. Preciso ser formado em TI?
 
-Cada caso é um caso, mas para pedir Critical Skills (salário anual entre €32 a €64 mil anual) é preciso sim ter um diploma, pode ser tecnólogo, desde que a tradução do diploma tenha a palavra Degree, então apenas certificados e experiência no geral (apenas para salários acima de €64 mil anual), podem não ser o suficiente.
+Cada caso é um caso, mas para pedir Critical Skills (salário anual entre €38 a €64 mil anual) é preciso sim ter um diploma, pode ser tecnólogo, desde que a tradução do diploma tenha a palavra Degree, então apenas certificados e experiência no geral (apenas para salários acima de €64 mil anual), podem não ser o suficiente.
 
 ## <a name="4"></a>4. Custo de vida na Irlanda é barato?
 
 Depende do condado escolhido. O melhor site para comparação é o [Numbeo Dublin](https://www.numbeo.com/cost-of-living/in/Dublin) e [Numbeo Cork](https://www.numbeo.com/cost-of-living/in/Cork), mas vamos a alguns fatos:
 
-- Aluguel de quarto/flat individual (casal) próximo ao centro: €1000-1200, a parte mais cara do custo de vida em Dublin.
+- Aluguel de quarto/flat individual (casal) próximo ao centro: €1200-1400, a parte mais cara do custo de vida em Dublin.
 - Comida: cerca de €150-200/mês por pessoa, comendo bem e curtindo uma cervejinha.
-- Valor de um Combo do Mc Donald's é de cerca de €6-7 (depende do Combo), restaurantes começam em cerca de €11-13, mas a média por um bom restaurante, com bebida, fica na casa dos €16-20.
+- Valor de um Combo do Mc Donald's é de cerca de €8-10 (depende do Combo), restaurantes começam em cerca de €15-17, mas a média por um bom restaurante, com bebida, fica na casa dos €20-25.
 - Comida tem sempre os lanches baratos e cozinhar em casa SEMPRE é a opção mais barata.
-- Cerveja nos pub's costuma ser a facada, cerca de €6-8, mas comprar no mercado pode sair até €2.50 a lata de 500ml, mas a média normal no mercado é de €4-5 por 500ml de cerveja.
+- Cerveja nos pub's costuma ser a facada, cerca de €7-9, mas comprar no mercado pode sair até €3.50 a lata de 500ml, mas a média normal no mercado é de €4-5 por 500ml de cerveja.
 - Transporte é caro, estudante é no máximo cerca de €80 por mês, €20/semana Leapcard (Bilhete único, RioCard e esses cartões de transporte) estudante, e acredite, pesa, melhor opção, bicicleta/patinete elétrica.
 - Celular é barato com planos de cerca de €20 por mês ilimitado, operadoras a indicar, [3](https://www.three.ie/), [48 (A mais barata, €10,99 com o sinal da Three)](https://refer.48.ie/MD0kKv), [Eir](https://www.eir.ie/mobile/) e [Vodafone](https://n.vodafone.ie/shop/pay-as-you-go-plans.html), corra da Lyca.
-- ÁGUA - Barato, no geral cobram de 2 em 2 meses uma merreca. Onde moro, em um prédio, não cobram água, só Luz e Gás. Não sei detalhes de valores, pois não tenho essa experiência.
+- ÁGUA - Barato, no geral cobram de 2 em 2 meses uma merreca. Onde moro, em um prédio, não cobram água, só Luz e Gás.
 - LUZ e GÁS - Gás é muito usado aqui para aquecedor (heather) e Boiler (boiler também tem elétrico). No geral é barato, desde que a conta seja no seu nome. Contas pré-pagas são mais caras, mas não muito. Aqui tem DEZENAS de empresas que fazem esse serviço. Mais detalhes sugiro olhar o [Switcher IE](https://switcher.ie/). Preço médio por pessoa por mês é de cerca de €30-50 por mês por pessoa.
 
-Lembre-se que o salário "mínimo" aqui é €1808.00 (€11.30/h) Full time (160/h mês) e tirando o aluguel, tudo mais pode ser bem economizado.
+Lembre-se que o salário "mínimo" aqui é €2032.00 (€12.70/h) Full time (160/h mês) e tirando o aluguel, tudo mais pode ser bem economizado.
 
 ## <a name="5"></a>5. Quero ir para trabalhar, como faço? Precisa de visto? Precisa de Permissão de Residência?
 
@@ -70,7 +70,7 @@ Precisa de visto? Não, pois o visto é a permissão de ir até o país e os aco
 
 A Irlanda tem alguns tipos de Permissão de Residência, os mais importantes são:
 
-- **Stamp 1 (Permissão de trabalho):** Você precisa de uma proposta formal de trabalho no valor mínimo de €32 mil/ano (Critical Skills) e um diploma na área de tecnologia (no caso como o grupo é de TI, estou dando esse exemplo) ou proposta de €64 mil/ano mas não precisa de diploma. Essas regras se aplicam ao [Critical Skills](https://dbei.gov.ie/en/What-We-Do/Workplace-and-Skills/Employment-Permits/Permit-Types/Critical-Skills-Employment-Permit/). Com isso, você pode requisitar o Stamp 1, que tem que ter todo o aval da empresa que te fez a proposta de trabalho, pois a empresa também precisa estar cadastrada nos órgãos do governo e seguir alguns critérios. O custo é de €1000, que costuma ser pago pela empresa, e o contrato é de 2 anos de trabalho. Enquanto não sai essa permissão de trabalho, você só pode trabalhar de acordo com o seu atual tipo de Stamp (Por exemplo, estudante 20h semanais e outras variações).
+- **Stamp 1 (Permissão de trabalho):** Você precisa de uma proposta formal de trabalho no valor mínimo de €38 mil/ano (Critical Skills) e um diploma na área de tecnologia (no caso como o grupo é de TI, estou dando esse exemplo) ou proposta de €64 mil/ano mas não precisa de diploma. Essas regras se aplicam ao [Critical Skills](https://dbei.gov.ie/en/What-We-Do/Workplace-and-Skills/Employment-Permits/Permit-Types/Critical-Skills-Employment-Permit/). Com isso, você pode requisitar o Stamp 1, que tem que ter todo o aval da empresa que te fez a proposta de trabalho, pois a empresa também precisa estar cadastrada nos órgãos do governo e seguir alguns critérios. O custo é de €1000, que costuma ser pago pela empresa, e o contrato é de 2 anos de trabalho. Enquanto não sai essa permissão de trabalho, você só pode trabalhar de acordo com o seu atual tipo de Stamp (Por exemplo, estudante 20h semanais e outras variações).
 
 - **Stamp 2 (Permissão de estudante):** A maneira mais comum de se vir para a Irlanda. Você precisa de um curso de Inglês pago de 25 semanas + 8 semanas de férias e tem direito a trabalhar 20h semanais e 40h semanais nos meses de férias escolares (junho a setembro e de 15/12 a 15/01). Existe uma variação desse Stamp que é o de faculdade, que tem a mesma carga de trabalho permitida no curso de inglês. O pessoal costuma vir com a permissão de estudante, General English Course, aprimora o Inglês e tenta achar uma empresa que patrocine o Stamp 1 ou após as duas renovações permitidas do curso de Inglês, parte para faculdade e aí fica mais 4-5 anos por aqui.
 
@@ -84,13 +84,14 @@ A Irlanda tem alguns tipos de Permissão de Residência, os mais importantes sã
 # <a name="links_uteis"></a>LINKS ÚTEIS retirado do [Grupo do Facebook](https://www.facebook.com/groups/ITinDublin/)
 
 * [Dúvidas Permissão de trabalho](http://www.djei.ie)
-* [Lista de empresas que deram Permissão de trabalho para estrangeiros em 2017](https://dbei.gov.ie/en/Publications/Employment-Permit-Statistics-2017.html)
-* [Lista de empresas que deram Permissão de trabalho para estrangeiros em 2018](https://dbei.gov.ie/en/Publications/Employment-Permit-Statistics-2018.html)
+* [Lista de empresas que deram Permissão de trabalho para estrangeiros em 2021](https://dbei.gov.ie/en/Publications/Employment-Permit-Statistics-2021.html)
+* [Lista de empresas que deram Permissão de trabalho para estrangeiros em 2022](https://dbei.gov.ie/en/Publications/Employment-Permit-Statistics-2022.html)
+* [Lista de empresas que deram Permissão de trabalho para estrangeiros em 2023](https://dbei.gov.ie/en/Publications/Employment-Permit-Statistics-2023.html)
 * [Visto de estudante? Pode trabalhar? 20 ou 40 horas?](http://www.citizensinformation.ie/en/travel_and_recreation/travel_to_ireland/student_visas.html)
 * [Calculadora de Impostos](http://ie.thesalarycalculator.co.uk/)
-* [TAX Calculator 2023](http://www.virtualaccountant.ie/Tools/tax2023.jsp)
 * [Revenue](http://www.revenue.ie/en/index.html)
 * [Tenho direito a cidadania Irlandesa?](http://www.inis.gov.ie/en/INIS/Pages/Naturalisation_Residency_Calculator)
+* [Últimas nóticias oficias sobre Imigração e Procedimentos](https://www.irishimmigration.ie/news-and-updates/)
 * [Tradução de diploma / Dublin Help 4 All Certified Translation](http://www.languagesunlimited.ie/)
 * [Consultar Aplicação do Visto](https://dbei.gov.ie/en/What-We-Do/Workplace-and-Skills/Employment-Permits/Current-Application-Processing-Dates/)
 * [LinkedIn Resume Builder / Ajuda para montar currículo](http://resume.linkedinlabs.com/)
