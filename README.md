@@ -93,6 +93,7 @@ A Irlanda tem alguns tipos de Permissão de Residência, os mais importantes sã
 * [Tenho direito a cidadania Irlandesa?](http://www.inis.gov.ie/en/INIS/Pages/Naturalisation_Residency_Calculator)
 * [Últimas nóticias oficias sobre Imigração e Procedimentos](https://www.irishimmigration.ie/news-and-updates/)
 * [Tradução de diploma / Dublin Help 4 All Certified Translation](http://www.languagesunlimited.ie/)
+* [NARIC Ireland Foreign Qualifications / Equivalência de Diplomas](https://qsearch.qqi.ie/WebPart/Search?searchtype=recognitions)
 * [Consultar Aplicação do Visto](https://dbei.gov.ie/en/What-We-Do/Workplace-and-Skills/Employment-Permits/Current-Application-Processing-Dates/)
 * [LinkedIn Resume Builder / Ajuda para montar currículo](http://resume.linkedinlabs.com/)
 * [Mapa das Empresas de TI na Irlanda](http://zartis.com/techmap) e [TechIreland](https://www.tech
