@@ -68,9 +68,9 @@ Lembre-se que o salário "mínimo" aqui é €2032.00 (€12.70/h) Full time (16
 
 Precisa de visto? Não, pois o visto é a permissão de ir até o país e os acordos entre Brasil e União Europeia dizem que não é necessária nenhuma aprovação prévia de sua viagem se você for a turismo. Se você deseja se mudar e ficar mais de 90 dias no país, trabalhar, estudar, etc., o que você precisa é de uma Permissão de Residência.
 
-Importante frisar que ainda que visto nao seja necessário para embarcar para a Irlanda, o Oficial de Imigação pode recusar a sua entrada no país caso não se convença da legalidade da sua visita ou de que você saíra da Irlanda ao fim do prazo dado como turista.
+Importante frisar que ainda que visto nao seja necessário para embarcar para a Irlanda, o Oficial de Imigação pode recusar a sua entrada no país caso não se convença da legalidade da sua visita ou de que você sairá da Irlanda ao fim do prazo dado como turista.
 
-Há a previsão de entrada em vigor do ETIAS, se vai ser um sistema online para "pré-autorização de viagem", para cidadãos de países dos quais nao se exige visto, como o Brasil, quando em viagem pra o Espaço Schengen. Houve várias postergações para entrada em vigor no passado, com data estimada de entrada em operação em meados de 2025. Mais informações no [site](https://travel-europe.europa.eu/etias_en) da União europeia sobre o tema.
+Há a previsão de entrada em vigor do ETIAS, que será um sistema online para "pré-autorização de viagem", para cidadãos de países dos quais nao se exige visto, como o Brasil, quando em viagem pra o Espaço Schengen. Houve várias postergações para entrada em vigor no passado, com data estimada de entrada em operação em meados de 2025. Mais informações no [site](https://travel-europe.europa.eu/etias_en) da União europeia sobre o tema.
 
 A Irlanda não faz parte do Espaço Schengen, no entanto os vôos mais comuns entre Brasil e Irlanda passam por países do Espaço Schengen (TAP por Portugal, Air France pela França, KML pela Holanda, Condor e LuftHansa pela Alemanha, etc), logo é um item a mais para colocar na preparaçao para a migração.
 
